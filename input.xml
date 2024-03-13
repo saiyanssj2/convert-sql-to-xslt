@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROWSET>
+    <ROW>
+        <SESS_NAME>
+            TABLE_NAME1
+        </SESS_NAME>
+        <COUNT>
+            1
+        </COUNT>
+    </ROW>
+    <ROW>
+        <SESS_NAME>
+            TABLE_NAME2
+        </SESS_NAME>
+        <COUNT>
+            1
+        </COUNT>
+    </ROW>
+</ROWSET>
